@@ -1,0 +1,14 @@
+.top{
+    background-color: rgb(85, 85, 156);
+    height:3.75rem;
+    color: aliceblue;
+    
+}
+.ul{
+    display: flex;
+    justify-content: flex-end;
+    gap:4rem;
+    margin-right:4rem;
+    padding:1rem;
+    font-size:1.25rem;
+}

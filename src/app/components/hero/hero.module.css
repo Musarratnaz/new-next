@@ -1,0 +1,23 @@
+.img{
+    
+    height: 40vh;
+    width: 40%;
+    display: inline-block;
+    margin-left: 25rem;
+    margin-top:4rem;
+
+    
+}
+.hero{
+    background-color:rgb(172, 237, 234);
+    height: 80vh;
+    
+    
+    
+}
+.heading{
+    font-size:3rem;
+    text-align: center;
+    color:blue;
+
+}
